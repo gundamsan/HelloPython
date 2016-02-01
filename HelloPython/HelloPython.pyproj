@@ -27,6 +27,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="HelloPython.py" />
+    <Compile Include="initPCA9685.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="lines.py" />
     <Compile Include="opencv_binary.py">
       <SubType>Code</SubType>
