@@ -23,6 +23,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="fast1.py" />
+    <Compile Include="HelloPiStorms.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="HelloPython.py" />
     <Compile Include="lines.py" />
     <Compile Include="opencv_binary.py">
